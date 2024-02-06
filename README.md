@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+👋,+I'm+Dinuka+Ishara+Hrath" alt="Typing SVG" /></a> <br>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+👋,+I'm+Dinuka+Ishara+Herath" alt="Typing SVG" /></a> <br>
 
 <h3 align="center">A developer in training in Sri Lanka</h3>
 
