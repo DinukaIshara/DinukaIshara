@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src ="https://private-user-images.githubusercontent.com/156918976/298292020-e94bc8e8-7116-453f-9b38-09653b2c0979.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyNDUyNDAsIm5iZiI6MTcwNzI0NDk0MCwicGF0aCI6Ii8xNTY5MTg5NzYvMjk4MjkyMDIwLWU5NGJjOGU4LTcxMTYtNDUzZi05YjM4LTA5NjUzYjJjMDk3OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQxODQyMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjZkODVkODlkYTkxOWM2YTBiNmJmYzU4MTUwOTU4NjZlZmYyOTQ1ZWM0MTkxOWQ0ZTk0YWFjNzRiNjhjMGQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YVHW54S21Nwjzlw_qeVcnZL-ZqN0GDAKTG5fjXIw5lA">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+👋,+I'm+Dinuka+Ishara+Herath" alt="Typing SVG" /></a> <br>
 
 <h3 align="center">A developer in training in Sri Lanka</h3>
